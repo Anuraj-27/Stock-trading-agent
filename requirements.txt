@@ -1,0 +1,7 @@
+langchain
+langchain-groq
+langchain-classic
+yfinance
+python-dotenv
+streamlit
+alpaca-py

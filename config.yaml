@@ -1,0 +1,12 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@tradingagent.com
+      name: Admin Trader
+      password: "$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW" # Pre-hashed for '12345'
+cookie:
+  expiry_days: 30
+  key: "some_signature_key_change_this"
+  name: "stock_agent_cookie"
+preauthorized:
+  emails: []
